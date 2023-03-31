@@ -1,0 +1,34 @@
+[
+    {
+        "id" : 1,
+        "name": "Ashikur Rahman",
+        "image": "https://i.pinimg.com/736x/16/c4/58/16c458afebf6cab0f7572f5af87f6f32.jpg",
+        "time": 6,
+        "title": "What is Front-End Development?",
+        "cover": "https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg"
+    },
+    {
+        "id" : 2,
+        "name": "Jhankar Mahbub",
+        "image": "https://img.freepik.com/free-photo/handsome-confident-smiling-man-with-hands-crossed-chest_176420-18743.jpg",
+        "time": 9,
+        "title": "What is Back-End Development?",
+        "cover":"https://www.itprotoday.com/sites/itprotoday.com/files/programming%20evolution.jpg"
+    },
+    {
+        "id" : 3,
+        "name": "Mashrafe Mortaza",
+        "image": "https://img.freepik.com/free-photo/serious-strict-bearded-elderly-man-points-index-finger_273609-52466.jpg",
+        "time": 7,
+        "title": "What is Full-Stack Development?",
+         "cover":"https://www.freecodecamp.org/news/content/images/2022/12/main-image.png"
+    },
+    {
+        "id" : 4,
+        "name": "Khalid Farhan",
+        "image": "https://img.freepik.com/free-photo/close-up-confident-male-employee-white-collar-shirt-smiling-camera-standing-self-assured-against-studio-background_1258-26761.jpg",
+        "time": 10,
+        "title": "The Difference Between Front-End and Back-End Developer",
+        "cover":"https://www.springboard.com/blog/wp-content/uploads/2022/08/programming-jobs-salaries-800x496.png"
+    }
+]
